@@ -1,0 +1,16 @@
+
+Mandatory Features : 
+	1. ability to enter text
+	2. delete text 
+	3. ctrl z and ctrl y
+	4. find replace
+	
+Extra features : 
+	1. convert selected text from uppercase to lower case and vice versa.
+	2. multiple files
+	3. word wrap toggle 
+	4. word count/ length 
+	
+Advanced Features :
+	1. Syntax highlighting based on file type
+	2. auto structuring/ various view modes 
